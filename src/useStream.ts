@@ -1,4 +1,4 @@
-import {IStreamResult} from "@aspnet/signalr";
+import {IStreamResult} from '@microsoft/signalr';
 import {useEffect, useReducer} from "react";
 
 import {IStreamState} from "./types";

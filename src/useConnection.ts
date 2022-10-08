@@ -1,4 +1,4 @@
-import {HubConnection} from "@aspnet/signalr";
+import {HubConnection} from '@microsoft/signalr';
 import {useEffect, useReducer} from "react";
 import {IConnectionStatus} from "types";
 

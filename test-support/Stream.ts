@@ -1,4 +1,4 @@
-import {IStreamResult, IStreamSubscriber, ISubscription} from "@aspnet/signalr";
+import {IStreamResult, IStreamSubscriber, ISubscription} from '@microsoft/signalr';
 
 export class Stream<T> implements IStreamResult<T> {
   public observers: Array<IStreamSubscriber<T>>;

@@ -1,4 +1,4 @@
-import {HttpTransportType, HubConnectionBuilder} from "@aspnet/signalr";
+import {HttpTransportType, HubConnectionBuilder} from '@microsoft/signalr';
 
 import {createConnectionContext} from "../src";
 

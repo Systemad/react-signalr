@@ -1,4 +1,4 @@
-import {HubConnection, IStreamResult} from "@aspnet/signalr";
+import {HubConnection, IStreamResult} from '@microsoft/signalr';
 import {ComponentType, ReactNode} from "react";
 
 export type StreamCreator<T> = (conn: HubConnection) => IStreamResult<T>;

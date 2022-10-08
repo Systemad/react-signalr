@@ -1,4 +1,4 @@
-import {HubConnection} from "@aspnet/signalr";
+import {HubConnection} from '@microsoft/signalr';
 
 export class ConnectionStub {
   public static create(conn: HubConnection) {

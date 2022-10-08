@@ -1,4 +1,4 @@
-import {HubConnection} from "@aspnet/signalr";
+import {HubConnection} from '@microsoft/signalr';
 import React, {createContext, useContext, useMemo} from "react";
 
 import {
