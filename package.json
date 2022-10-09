@@ -1,18 +1,18 @@
 {
-  "name": "@hwdtech/react-signalr",
-  "version": "1.0.0-alpha.1",
+  "name": "@systemad/react-signalr",
+  "version": "1.0.0-alpha.2",
   "description": "A set of helper components to work with SignalR hub connections & streams",
   "main": "./dist/index.js",
   "directories": {
     "lib": "./src",
     "examples": "./examples"
   },
-  "repository": "github:hwdtech/react-signalr",
-  "homepage": "https://github.com/hwdtech/react-signalr/blob/master/README.md",
+  "repository": "github:systemad/react-signalr",
+  "homepage": "https://github.com/systemad/react-signalr/blob/master/README.md",
   "bugs": {
-    "url": "https://github.com/hwdtech/react-signalr/issues"
+    "url": "https://github.com/systemad/react-signalr/issues"
   },
-  "author": "Max Malov <mmalov@hwdtech.ru>",
+  "author": "none",
   "license": "MIT",
   "private": false,
   "scripts": {

@@ -7,7 +7,7 @@ This package exposes a set of utility components to work with SignalR hub connec
 ## Installation
 
 ```bash
-npm install @hwdtech/react-signalr
+npm install @systemad/react-signalr
 ```
 
 ## Motivation
