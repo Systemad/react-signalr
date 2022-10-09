@@ -27,9 +27,9 @@
     "deploy-storybook": "storybook-to-ghpages"
   },
   "peerDependencies": {
-    "@aspnet/signalr": "^1.0.4",
-    "react": "^16.8.5",
-    "react-dom": "^16.8.5"
+    "@microsoft/signalr": "6.0.9",
+    "react": "18.2.0",
+    "react-dom": "18.2.0"
   },
   "devDependencies": {
     "@babel/core": "^7.19.3",
@@ -41,7 +41,7 @@
     "@storybook/storybook-deployer": "^2.8.12",
     "@testing-library/react": "^13.4.0",
     "@types/jest": "^29.1.2",
-    "@types/react": "^18.0.21",
+    "@types/react": "18.0.20",
     "@types/storybook__addon-actions": "^5.2.1",
     "@types/storybook__react": "^5.2.1",
     "awesome-typescript-loader": "^5.2.1",
@@ -52,7 +52,7 @@
     "lint-staged": "^13.0.3",
     "prettier": "^2.7.1",
     "react": "^18.2.0",
-    "react-dom": "^18.2.0",
+    "@types/react-dom": "18.0.6",
     "react-testing-library": "^8.0.1",
     "ts-jest": "^29.0.3",
     "ts-loader": "^9.4.1",
@@ -61,7 +61,7 @@
     "tslint-config-prettier": "^1.18.0",
     "tslint-plugin-prettier": "^2.3.0",
     "tslint-react": "^5.0.0",
-    "typescript": "^4.8.4",
+    "typescript": "^4.8.3",
     "webpack": "^5.74.0"
   },
   "dependencies": {},
